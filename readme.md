@@ -1,3 +1,29 @@
+
+To run my app
+
+1 -> go to cmd and open project folder in it 
+2 -> type this commant php artisan migrate 
+3 -> type this commant php artisan db:seed --class=UsersTableSeeder  to git first User
+4 -> open app in localhost server and enter email => osamaarafa96@yahoo.com , password=> 123123
+5 -> you can add and delete and update  more users  and campanies 
+
+
+finally thanks for reading 
+ 
+created by Osama Arafa. 
+
+
+
+make fun with Laravel 
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
