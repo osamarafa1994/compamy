@@ -10,7 +10,7 @@
             </span>
             </a>
          </li>
-         @if($user->role_id == 1 )
+         
          <li class="treeview">
             <a href="#">
             <i class="fa fa-users"></i><span>الموظفين</span>
@@ -33,7 +33,7 @@
                <li><a href="{{asset('company')}}">اضافة شركه</a></li>
             </ul>
          </li>
-         @endif
+         
 
 
       </ul>
