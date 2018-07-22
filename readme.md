@@ -1,20 +1,20 @@
 
 To run my app
 
-1 -> go to cmd and open project folder in it 
-2 -> type this commant php artisan migrate 
-3 -> type this commant php artisan db:seed --class=UsersTableSeeder  to git first User
-4 -> open app in localhost server and enter email => osamaarafa96@yahoo.com , password=> 123123
-5 -> you can add and delete and update  more users  and campanies 
+1 -> go to cmd and open project folder in it. <br> 
+2 -> type this commant "php artisan migrate" . <br> 
+3 -> type this commant "php artisan db:seed --class=UsersTableSeeder" to git first User. <br> 
+4 -> open app in localhost server and enter email => osamaarafa96@yahoo.com , password=> 123123 . <br> 
+5 -> you can add and delete and update  more users  and campanies . <br> 
 
 
-finally thanks for reading 
+finally thanks for reading . <br> 
  
-created by Osama Arafa. 
+created by Osama Arafa. . <br> 
 
 
 
-make fun with Laravel 
+make fun with Laravel . <br> 
 
 
 
